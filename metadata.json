@@ -1,0 +1,6 @@
+{
+  "name": "Security Command Center",
+  "description": "Hệ thống quản lý và điều hành an ninh sự kiện, hội nghị và khu vực tập trung đông người.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
